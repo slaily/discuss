@@ -79,6 +79,7 @@ ENV/
 
 # Other
 .DS_Store
+config/
 
 # Project files
 node_modules/
