@@ -14,7 +14,7 @@ config :discuss, Discuss.Endpoint,
 # Configure your database
 config :discuss, Discuss.Repo,
   adapter: Ecto.Adapters.Postgres,
-  username: "postgres",
-  password: "postgres",
-  database: "discuss_prod",
+  username: "YOUR_USERNAME",
+  password: "YOUR_PASSWORD",
+  database: "YOUR_DATABASE",
   pool_size: 20
